@@ -1,4 +1,4 @@
-motorDynamics = xlsread('MotorDynamics.xlsx');
+motorDynamics = xlsread('SingleMotorData.xlsx');
 motorVoltage = motorDynamics ([3:11],1);%V
 motorLift = motorDynamics ([3:11],2);%N
 motorCurrent = motorDynamics ([3:11],3);%A
