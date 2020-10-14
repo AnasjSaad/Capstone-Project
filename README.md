@@ -1,7 +1,10 @@
 # Capstone-Project
 
-This project was completed as a capstone for the avionics class of 2019. I included an excel file of the motor data used to design the controller, as well as the MATLAB code used to design the transfer functions for the controller design that utilizes that data.
+This project was completed as a capstone for the avionics class of 2019. 
 
-As a bonus I have inclduded a pdf section of my final Capstone report that diplays the simulink model along with the mission profile code used on the project. I have took the step of not including the code files for safety of plagirism for the avionics students that come following my year.
+I included an excel file of the motor data used to design the controller which was first collected by running tests on the drone for each axis individually. This data was then used to create the individuaa open-loop transfer functions for each axis which was then used to build the controller. 
 
-You can contact me for any questions regarding the codes, and data file attached.
+
+Unfortuantely I cannot share the code for the full process of design as this is an ongoing capstone projects for the Avionics department at Ryerson University but you can contact me for any questions regarding the codes, and data file attached! 
+
+Heres a video of the final project running: https://youtu.be/uv47V7Bhrp4
